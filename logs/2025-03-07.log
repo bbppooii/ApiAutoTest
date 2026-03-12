@@ -1,0 +1,69 @@
+2025-03-07 16:29:50,408 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:30:44,756 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:30:44,756 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:30:44,806 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:30:44,806 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTMzOTg0NH0.pkyfcYrdsTpRAn4fbOAmId8Xq_tWOjdDzt1hsTRReQc'}
+2025-03-07 16:34:26,871 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:34:26,871 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:34:26,926 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:34:26,926 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTM0MDA2Nn0.-2aHKT_-SDmxKPCwXcXl7vuEoNegm_W0lraXip9_vOg'}
+2025-03-07 16:34:26,930 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:34:26,930 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'lisi', 'password': '123456'}}
+2025-03-07 16:34:27,008 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:34:27,008 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MiwidXNlck5hbWUiOiJsaXNpIiwiZXhwIjoxNzQxMzQwMDY2fQ.b7vTCNxBO7mU8qOJS1KdNunjxc3lWAUODJDruyP9FeY'}
+2025-03-07 16:35:10,206 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:35:10,206 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:35:10,254 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:35:10,254 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTM0MDExMH0.jWthFVq_LZ49T-oTFwFvNHgpZOPexgOw6Q6jtB0mJyg'}
+2025-03-07 16:35:10,257 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:35:10,257 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': '', 'password': '123456'}}
+2025-03-07 16:35:10,316 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:35:10,317 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'FAIL', 'errMsg': '账号或密码不能为空', 'data': None}
+2025-03-07 16:35:27,557 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:35:27,559 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:35:27,609 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:35:27,609 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTM0MDEyN30.22uUhSNAc0JQXygBab2gJ4QFs0IpG6gDWVRYIbXvD6I'}
+2025-03-07 16:35:27,614 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:35:27,614 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': ' ', 'password': '123456'}}
+2025-03-07 16:35:27,654 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:35:27,654 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'FAIL', 'errMsg': '用户不存在', 'data': None}
+2025-03-07 16:35:47,669 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:35:47,669 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:35:47,732 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:35:47,732 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTM0MDE0N30.oXAa8RMA2Aw6xCeqd6X9T4A8L2DSiuPPtlyhcX3fn9I'}
+2025-03-07 16:35:47,736 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:35:47,736 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': '', 'password': '123456'}}
+2025-03-07 16:35:47,871 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:35:47,871 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'FAIL', 'errMsg': '账号或密码不能为空', 'data': None}
+2025-03-07 16:37:20,938 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:37:20,939 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:37:21,020 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:37:21,020 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTM0MDI0MH0.EiuZnFXB4wCt8oh6GOXccLn_8uqQzVp9lKTuSdlMv2s'}
+2025-03-07 16:37:21,111 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:37:21,111 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': '', 'password': '123456'}}
+2025-03-07 16:37:21,158 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:37:21,159 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'FAIL', 'errMsg': '账号或密码不能为空', 'data': None}
+2025-03-07 16:37:46,730 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:37:46,730 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:37:46,782 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:37:46,782 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTM0MDI2Nn0.6liDZqIw8Bv8eFM_CbbHHfKHE9T8lUC0tE-64NEzY18'}
+2025-03-07 16:37:46,786 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:37:46,786 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': '', 'password': '123456'}}
+2025-03-07 16:37:46,832 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:37:46,833 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'FAIL', 'errMsg': '账号或密码不能为空', 'data': None}
+2025-03-07 16:42:50,118 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:42:50,118 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:42:50,200 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:42:50,201 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTM0MDU3MH0.mUdp_lWBH7gskxiIJzUBM2qPr_NwctNbeCJUMV_tbqs'}
+2025-03-07 16:42:50,204 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:42:50,204 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'lisi', 'password': '123456'}}
+2025-03-07 16:42:50,286 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:42:50,287 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MiwidXNlck5hbWUiOiJsaXNpIiwiZXhwIjoxNzQxMzQwNTcwfQ.PARMP0FG36Jrdlw3SZEF9fIh80TYJA_358RtlFKpZmI'}
+2025-03-07 16:43:11,474 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:43:11,475 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'zhangsan', 'password': '123456'}}
+2025-03-07 16:43:11,535 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:43:11,536 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlck5hbWUiOiJ6aGFuZ3NhbiIsImV4cCI6MTc0MTM0MDU5MX0.PyLUsDZBbTavPzKljSZpYA_Yh7Esr7qThddwPuy-G2w'}
+2025-03-07 16:43:11,618 INFO [utils.logger_util] [request_util.py (post:21)] - 准备发起post请求，url:http://8.137.19.140:9090/user/login
+2025-03-07 16:43:11,618 INFO [utils.logger_util] [request_util.py (post:22)] - 接口信息：{'data': {'username': 'lisi', 'password': '123456'}}
+2025-03-07 16:43:11,726 INFO [utils.logger_util] [request_util.py (post:26)] - 接口响应状态码：200
+2025-03-07 16:43:11,734 INFO [utils.logger_util] [request_util.py (post:27)] - 接口响应内容：{'code': 'SUCCESS', 'errMsg': '', 'data': 'eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MiwidXNlck5hbWUiOiJsaXNpIiwiZXhwIjoxNzQxMzQwNTkxfQ.Y_BVwPFHhljY4LhY4CisWy9O8afXGhgPald4D9XnEMA'}
